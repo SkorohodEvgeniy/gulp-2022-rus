@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 343bc34..5cfeec8 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -13,7 +13,6 @@[m
+     <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias possimus quibusdam ex, accusamus a impedit aliquam tenetur perferendis expedita quas aut placeat non eligendi delectus deleniti dolore ea est nulla?</P>[m
+     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur similique, incidunt quas tempora eveniet iusto, esse mollitia libero minima cumque accusantium, assumenda perspiciatis quidem magni. Hic accusamus tenetur voluptate ipsam.</p>[m
+     [m
+[31m-    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est molestias natus praesentium, ex ipsa debitis? Deleniti quaerat molestiae, magnam, pariatur voluptatibus quisquam officia mollitia accusantium voluptatum deserunt nobis, autem est!</p>[m
+     <script src="main.js"></script>[m
+ </body>[m
+ </html>[m
